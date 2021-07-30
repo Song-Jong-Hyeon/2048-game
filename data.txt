@@ -1,0 +1,2 @@
+width 600 -> 80px
+width 400 -> 60px
